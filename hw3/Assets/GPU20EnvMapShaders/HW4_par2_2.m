@@ -1,0 +1,17 @@
+clear; close all; clc;
+rough = 0.412;
+rough2 = 0.5;
+rough3 = 0.389;
+a = rough * rough;
+a2 = rough2 * rough2;
+a3 = rough3 * rough3;
+x = (0:0.01:1);
+beck =  1./(pi * a.^2.*(x.^4)) .* exp((x.^2 - 1)./ (a.^2 * x.^2));
+bling = (1/pi*a2.^2) .* (power(x,((2/a2.^2) - 2)));
+ggx = (a3^2) ./( pi * ((x.^2)*(a3^2 - 1) +1).^2);
+plot(x, beck,'DisplayName','Beckmann');
+hold on;
+plot(x, bling,'DisplayName','Blinn-Phong');
+hold on;
+plot(x, ggx, 'DisplayName','GGX');
+lgd = legend;
