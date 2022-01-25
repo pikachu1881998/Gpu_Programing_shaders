@@ -1,0 +1,3 @@
+Be sure to go to "Player" under "Project Settings" and make sure the Color Space is set to "linear."
+
+The animated models were free models found on the Unity Asset Store. The horse was by Tom Higgens, under the publisher name "Dootsy Development." Alas, it is no longer on the store, and the www.dootsy.co.uk website appears to be defunct. I also can't seem to find the skeleton model now either, and unfortunately don't seem to have any record as to who made it. If you know, please e-mail me at lanterma@ece.gatech.edu.

@@ -1,0 +1,110 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 32647 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Pikachu08181998/Documents/ece479995/temp
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53928
+Successfully changed project path to: D:/Pikachu08181998/Documents/ece479995/temp
+D:/Pikachu08181998/Documents/ece479995/temp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 110.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path D:/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Pikachu08181998/Documents/ece479995/temp/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'D:/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.006867 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.294 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2672 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.5 MB.
+System memory in use after: 98.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3126.
+Total: 2.316200 ms (FindLiveObjects: 0.249400 ms CreateObjectMapping: 0.165900 ms MarkObjects: 1.843300 ms  DeleteObjects: 0.056300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/brick.jpg
+  artifactKey: Guid(5b45c54b173a540149ced560be98d95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/brick.jpg using Guid(5b45c54b173a540149ced560be98d95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197c174a2bdba7de032527f5f2ad74ef') in 0.082678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2111.046868 seconds.
+  path: Assets/Shaders and Support
+  artifactKey: Guid(dd9e474383c2b44eba9ede8f6d1fe5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders and Support using Guid(dd9e474383c2b44eba9ede8f6d1fe5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554dd4657f139e2146a764425f0b2658') in 0.002988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.057866 seconds.
+  path: Assets/Shaders and Support/GPU21HackedDefRendBuiltInDIYShader.shader
+  artifactKey: Guid(ba2d77770e0754185b5a6c40c26bb3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders and Support/GPU21HackedDefRendBuiltInDIYShader.shader using Guid(ba2d77770e0754185b5a6c40c26bb3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88d96592a2c1886b86ab827da307290') in 0.006717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.531903 seconds.
+  path: Assets/Shaders and Support/GPU21OutlinerBuiltInDIYShader.shader
+  artifactKey: Guid(e1fb16101e23a49a490e7740e2e991f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders and Support/GPU21OutlinerBuiltInDIYShader.shader using Guid(e1fb16101e23a49a490e7740e2e991f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e60ed963293bd1ce915a226b047d50') in 0.002870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.260091 seconds.
+  path: Assets/Shaders and Support/GPU21DepthNormalBuiltInDIYShader.shader
+  artifactKey: Guid(e7401587ad4a040f4be54e09bff3e29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders and Support/GPU21DepthNormalBuiltInDIYShader.shader using Guid(e7401587ad4a040f4be54e09bff3e29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c178782c1117085483ad381b67b1db43') in 0.015420 seconds 
