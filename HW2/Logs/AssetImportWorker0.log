@@ -1,0 +1,22 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32647 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Pikachu08181998/Documents/ece479995/HW2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62231
+Successfully changed project path to: D:/Pikachu08181998/Documents/ece479995/HW2
+D:/Pikachu08181998/Documents/ece479995/HW2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 84.02 ms, found 2 plugins.
