@@ -1,0 +1,149 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 32647 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54119
+Successfully changed project path to: D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)
+D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path D:/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'D:/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.002637 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 73.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.807 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002854 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Pikachu08181998\Documents\ece479995\New Unity Project (1)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Pikachu08181998\Documents\ece479995\New Unity Project (1)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2668 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.3 MB.
+System memory in use after: 98.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3120.
+Total: 2.338700 ms (FindLiveObjects: 0.312400 ms CreateObjectMapping: 0.172600 ms MarkObjects: 1.779700 ms  DeleteObjects: 0.072700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Post-processing Profile.asset
+  artifactKey: Guid(55dd48b1f74c44325ab6d0f9ee925a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Post-processing Profile.asset using Guid(55dd48b1f74c44325ab6d0f9ee925a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6192fa39d99be594f7a403c9783ea86c') in 0.037216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.305682 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(9c6586bfa70f243408074d059a51bcbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(9c6586bfa70f243408074d059a51bcbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de2f4a59c21b77a44b7d80362b85582') in 0.002332 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.5 MB.
+System memory in use after: 45.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3120.
+Total: 2.259300 ms (FindLiveObjects: 0.231700 ms CreateObjectMapping: 0.159000 ms MarkObjects: 1.815700 ms  DeleteObjects: 0.051900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+========================================================================
+Received Import Request.
+  Time since last request: 146.007312 seconds.
+  path: Assets/PostProc Demo Scene.unity
+  artifactKey: Guid(d03d8d649a4f14984a13f5925bb38582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PostProc Demo Scene.unity using Guid(d03d8d649a4f14984a13f5925bb38582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d7e50f2fcda5274683fc8e57cb98be') in 0.009218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.317085 seconds.
+  path: Assets/README.txt
+  artifactKey: Guid(e1730f7127bfb4d71be746e8cdcf9901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/README.txt using Guid(e1730f7127bfb4d71be746e8cdcf9901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6c3806d8a7276576fcf8720bdfcfcd') in 0.008455 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008876 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Pikachu08181998\Documents\ece479995\New Unity Project (1)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Pikachu08181998\Documents\ece479995\New Unity Project (1)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in  0.947 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 3224.
+Total: 3.228800 ms (FindLiveObjects: 0.218800 ms CreateObjectMapping: 0.107200 ms MarkObjects: 2.379900 ms  DeleteObjects: 0.521900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

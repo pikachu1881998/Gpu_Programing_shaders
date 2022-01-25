@@ -1,0 +1,111 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 32647 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54052
+Successfully changed project path to: D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)
+D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 106.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path D:/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Pikachu08181998/Documents/ece479995/New Unity Project (1)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'D:/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/2021.1.7f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.002812 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 86.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.847 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.019 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.3 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3253.
+Total: 2.088000 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.137900 ms MarkObjects: 1.649400 ms  DeleteObjects: 0.075700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Post-processing Profile.asset
+  artifactKey: Guid(55dd48b1f74c44325ab6d0f9ee925a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Post-processing Profile.asset using Guid(55dd48b1f74c44325ab6d0f9ee925a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6192fa39d99be594f7a403c9783ea86c') in 0.046795 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003105 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.3 MB.
+System memory in use after: 105.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3256.
+Total: 2.462000 ms (FindLiveObjects: 0.213600 ms CreateObjectMapping: 0.129500 ms MarkObjects: 2.094100 ms  DeleteObjects: 0.023500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
